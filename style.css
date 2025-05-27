@@ -1,0 +1,48 @@
+.logo{
+    color: aliceblue;
+    margin: 0px auto;
+    text-align: center;
+    letter-spacing: 0.2em;
+    font-family:serif;
+    padding: 20px;
+}
+body{
+    background-repeat: no-repeat;
+    background-image: url(body_img/1627107169_1-kartinkin-com-p-zadnii-fon-uzori-krasivo-1.jpg);
+}
+.logo_img{
+    width: 330px;
+    height: 350px;
+    margin: 30px 20px;
+    border-radius: 30px;
+    display:inline-flexbox;
+    
+}
+.button_1{
+    position: relative;
+    width: 150px;
+    padding: 8px;
+    border-radius: 30px;
+    right: -100px;
+}
+.button_2{
+    position: relative;
+    width: 150px;
+    padding: 8px;
+    border-radius: 30px;
+    right: -320px;
+}
+.button_3{
+    position: relative;
+    width: 150px;
+    padding: 8px;
+    border-radius: 30px;
+    right: -550px;
+}
+.button_4{
+    position: relative;
+    width: 150px;
+    padding: 8px;
+    border-radius: 30px;
+    right: -780px;
+}
